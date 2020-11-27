@@ -1,0 +1,8 @@
+Proteus Stepper Motor is 4 pole Stepper Motor.
+But Hardware Stepper Motor we used is Micro-Stepper Motor.
+
+So, to observe the output in Proteus, Select 'STEPPER_MOTOR_Software.Hex' file
+& to observe the output in Hardware, Select 'STEPPER_MOTOR_Hardware.Hex' file.
+
+Hardware Code output is shown in the video. Software & Hardware code are different. 
+Hardware Code is what asked in the project question. 
